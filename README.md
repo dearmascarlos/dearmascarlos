@@ -41,6 +41,7 @@
 <div align="center">
 <h1 align="left">Proyectos</h1>
 <a href="https://github.com/dearmascarlos/dev-news"> <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-news.png" alt="news"/>&nbsp;&nbsp; </a> 
+  <p>Haz click para ir al repositorio</p>
  <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/Dev News.png" alt="news"/>&nbsp;&nbsp;
 
   
