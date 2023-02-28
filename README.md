@@ -55,12 +55,13 @@
 
 <div align="center">
 <h1 align="left">Otros proyectos</h1>
-<img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-personal.png" alt="mio"/>&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/otros-projects.png" alt="fin"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-personal.png" alt="mio" width="300" height="100"/>&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/otros.png" alt="fin"/>&nbsp;&nbsp;
 <h2>Repositorios</h2>
 
 <a href="https://github.com/dearmascarlos/Project-2-PeTinder-"><h3>PETINDER</h3>&nbsp;&nbsp; </a> 
 <a href="https://github.com/dearmascarlos/Consultor-de-Marvel"><h3>MARVEL CONSULTOR</h3>&nbsp;&nbsp; </a> 
 <a href="https://github.com/dearmascarlos/Starship-Battle-proyect"><h3>STARSHIP-BATTLE</h3>&nbsp;&nbsp; </a> 
-<a href="https://dearmascarlos.github.io/Starship-Battle-proyect/"><h4>JUEGA</h4>&nbsp;&nbsp; </a> 
+<a href="https://dearmascarlos.github.io/Starship-Battle-proyect/"><h5>JUEGA</h5>&nbsp;&nbsp; </a>
+  https://dearmascarlos.github.io/Starship-Battle-proyect/
 </div>
