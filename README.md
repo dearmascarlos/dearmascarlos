@@ -40,7 +40,7 @@
 
 <div align="center">
   <h3 align="left">Proyectos</h3>
- <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-news.png" alt="news"/>&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-news.png" href="https://github.com/dearmascarlos/dev-news" alt="news"/>&nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/Dev News.png" alt="news"/>&nbsp;&nbsp;
 
   
