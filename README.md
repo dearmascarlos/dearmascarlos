@@ -47,8 +47,8 @@
 
 <div align="center">
 <h1 align="left">Proyecto FindOneDev</h1>
-<a href="https://github.com/dearmascarlos/dev-news"> <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/findOneLogo5.png" alt="news"/>&nbsp;&nbsp; </a> 
+<a href="https://github.com/dearmascarlos/findOneDeveloperFRONT"> <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/findOneLogo5.png" alt="news"/>&nbsp;&nbsp; </a> 
   <p>Haz click para ir al repositorio</p>
  <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/FindOne.png" alt="find"/>&nbsp;&nbsp;
-  href="https://findonedeveloper.netlify.app/"
+  https://findonedeveloper.netlify.app/
 </div>
