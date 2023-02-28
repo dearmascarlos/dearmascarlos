@@ -59,9 +59,9 @@
 <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/otros.png" alt="fin"/>&nbsp;&nbsp;
 <h2>Repositorios</h2>
 
-<a href="https://github.com/dearmascarlos/Project-2-PeTinder-"> PETINDER &nbsp;&nbsp; </a> 
-<a href="https://github.com/dearmascarlos/Consultor-de-Marvel"><h3>MARVEL CONSULTOR</h3>&nbsp;&nbsp; </a> 
-<a href="https://github.com/dearmascarlos/Starship-Battle-proyect"><h3>STARSHIP-BATTLE</h3>&nbsp;&nbsp; </a> 
-<a href="https://dearmascarlos.github.io/Starship-Battle-proyect/"><h5>JUEGA</h5>&nbsp;&nbsp; </a>
+<a href="https://github.com/dearmascarlos/Project-2-PeTinder-">PETINDER&nbsp;&nbsp; </a> 
+<a href="https://github.com/dearmascarlos/Consultor-de-Marvel">MARVEL CONSULTOR&nbsp;&nbsp; </a> 
+<a href="https://github.com/dearmascarlos/Starship-Battle-proyect">STARSHIP-BATTLE&nbsp;&nbsp; </a> 
+<a href="https://dearmascarlos.github.io/Starship-Battle-proyect/">JUEGA&nbsp;&nbsp; </a>
   https://dearmascarlos.github.io/Starship-Battle-proyect/
 </div>
