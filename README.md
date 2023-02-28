@@ -37,3 +37,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
   </div>
 </div>
+
+<div align="center">
+  <h3 align="left">Proyectos</h3>
+  # ![](https://github.com/dearmascarlos/dearamascarlos/blob/main/logo-news.png)
+  
+</div>
