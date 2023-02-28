@@ -40,6 +40,7 @@
 
 <div align="center">
   <h3 align="left">Proyectos</h3>
-  # ![](https://github.com/dearmascarlos/dearmascarlos/blob/main/assets/logo-news.png)
+ <img src="https://raw.githubusercontent.com/dearmascarlos/dearmascarlos/main/assets/logo-news.png" alt="news" width="40" height="40"/>&nbsp;&nbsp;
+
   
 </div>
