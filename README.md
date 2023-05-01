@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Carlos!!!</h1>
-<h3 align="center">Desarrollador Web Full-stack junior, con muchísimas ganas de seguir aprendiendo</h3>
+<h3 align="center">Desarrollador Web Frontend, con muchísimas ganas de seguir aprendiendo</h3>
 
 - 🌱 I’m currently learning **Python!!!** <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
